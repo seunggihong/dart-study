@@ -1,6 +1,5 @@
-import '../bin/utils/calculate.dart';
+import '../bin/utils/facefinder.dart';
 
 void main() {
-  var a = 3;
-  var b = 2;
+  print(FaceFinder().getData());
 }
