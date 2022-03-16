@@ -1,2 +1,3 @@
-A simple command-line application.
 # dart-study
+
+> Daily dart study project
