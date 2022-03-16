@@ -1,3 +1,6 @@
-void main(List<String> arguments) {
-  print('Hello world!');
+import '../bin/utils/calculate.dart';
+
+void main() {
+  var a = 3;
+  var b = 2;
 }
