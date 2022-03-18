@@ -1,5 +1,5 @@
-import '../bin/utils/facefinder.dart';
+import 'utils/loadApi.dart';
 
 void main() {
-  print(FaceFinder().getData());
+  LoadAPI();
 }
